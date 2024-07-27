@@ -1,6 +1,5 @@
 # [Your Name] - GitHub Profile
 
-![Header Image](URL-to-your-header-image)
 
 ## Hi there 👋
 
