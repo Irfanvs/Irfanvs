@@ -38,7 +38,7 @@ A brief description of what this project does, its features, and technologies us
 
 ## 🛠️ Technologies & Tools
 
-![Languages](https://img.shields.io/badge/Languages-Python%20|%20JavaScript%20|%20Java%20|%20C++-blue)
+![Languages](https://img.shields.io/badge/Languages-Python%40|%40JavaScript%40|%40Java%40|%40C++-blue)
 ![Frameworks](https://img.shields.io/badge/Frameworks-React%20|%20Node.js%20|%20Django%20|%20Spring-green)
 ![Tools](https://img.shields.io/badge/Tools-Git%20|%20Docker%20|%20Kubernetes%20|%20AWS-orange)
 
