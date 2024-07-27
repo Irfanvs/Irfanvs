@@ -14,7 +14,7 @@ Welcome to my GitHub profile...! I am **IRFAN VS**, a passionate **Cybersecurity
 ## About Me
 
 - 🌱 I’m currently learning: **Btech CSE (Cybersecurity)**
-- 💬 Ask me about:** Code , Cybersecurity , media Handling , Management....!**
+- 💬 Ask me about:**Code , Cybersecurity , media Handling , Management....!**
 - 📫 How to reach me: _Irfanvs04@gmail.com_ 
 - ⚡ Fun fact:  **I can code in  different programming languages and love experimenting with new technologies in my spare time!"**
 
