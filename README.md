@@ -1,4 +1,4 @@
-# **IRFAN V S**->> GitHub Profile
+# **IRFAN V S** :- GitHub Profile
 
 
 ## Hey there..! 👋
